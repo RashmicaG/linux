@@ -42,3 +42,7 @@
 &emmc {
 	status = "disabled";
 };
+
+&fsim0 {
+	status = "okay";
+};
